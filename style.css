@@ -1,0 +1,6 @@
+.bus-list {
+    display:flex;
+    flex-wrap:wrap;
+    width:500px;
+    justify-content:space-between;
+}
